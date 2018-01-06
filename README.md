@@ -1,6 +1,6 @@
-# Mathias’s dotfiles
+# Luke’s dotfiles
 
-![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
+This dotfiles repository is a fork of Mathias' dotfiles repository. With tweaks to fit my preferences. The rest of this readme is unchanged for reference. 
 
 ## Installation
 
